@@ -1,20 +1,4 @@
-<div align="center">
-    <a href="https://github.com/mrsaeeddev/free-ai-resources">
-        <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
-    </a>
-    <br/>
-    <br/>
-
-
-<img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.jpg">
-<div align="center">
-<img src="https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources" alt="Last Commit Badge"/>
-<img src="https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources" alt="Commit Activity Badge"/>
-<img src="https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources" alt="Contributors Badge"/>
-<img src="https://img.shields.io/github/license/mrsaeeddev/free-ai-resources" alt="License Badge"/>
-<img src="https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social" alt="Stars Badge"/>
-
-> A curated list of FREE AI RESOURCES for aspiring AI Engineers
+### A curated list of FREE AI RESOURCES for aspiring AI Engineers
 
 </div>
 </div>
